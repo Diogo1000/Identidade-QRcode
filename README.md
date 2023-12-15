@@ -1,4 +1,4 @@
-# Identidade QrCode 🀫
+# Identidade QR Code 🀫
 
 
 ![captura de tela](https://i.imgur.com/wJEBGW3.png)
