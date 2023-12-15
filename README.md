@@ -7,7 +7,7 @@ Projeto voltado para pessoas PCD para auxiliar na segurança do dia a dia.
 
 ## :fire: Indrodução
 Sistema que gera as informações basicas inseridas pelo usuário em um QR Code para ajudar pessoas PCD na identificação em caso de desaparecimento ou acidente,
-pois o mesmo pode ser impresso e colacado em uma pulseira ou outro objeto preso ao usuário.
+pois o mesmo pode ser impresso e colocado em uma pulseira ou outro objeto preso ao usuário.
 
 O sistema foi desenvolvido para um projeto da faculdade onde o objetivo era fazer um programa que realizava as operações CRUD.
 
